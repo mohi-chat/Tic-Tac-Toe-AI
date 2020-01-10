@@ -11,3 +11,7 @@ The application can be run by following command:
     python "Play TicTacToe.py"
 
 Alternatively the file "Play TicTacToe.py" can also be run from a IDE.
+
+## Application Screenshots
+![alt text](https://github.com/mohi-chat/Tic-Tac-Toe-AI/blob/master/drawGame.JPG)
+![alt text](https://github.com/mohi-chat/Tic-Tac-Toe-AI/blob/master/lostGame.JPG)
